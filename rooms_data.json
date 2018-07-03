@@ -1,0 +1,1159 @@
+{
+"Rooms" :[
+   {
+      "Name":"6A67",
+      "Users":[
+         {
+            "Id":3,
+            "Name":"Smirnov Anton",
+            "Email":"anton@roi.com",
+            "Skype":"anton",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B04",
+      "Users":[
+         {
+            "Id":143,
+            "Name":"Ivanov Andrei",
+            "Email":"andrei@roi.com",
+            "Skype":"andrei",
+            "Grade":"T2"
+         },
+         {
+            "Id":3722,
+            "Name":"Petrova Anna",
+            "Email":"anna@roi.com",
+            "Skype":"anna",
+            "Grade":"T3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B15",
+      "Users":[
+         {
+            "Id":161,
+            "Name":"Baranov Andrey",
+            "Email":"andrey@roi.com",
+            "Skype":"andrey",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B13",
+      "Users":[
+         {
+            "Id":180,
+            "Name":"Petrov Alexander",
+            "Email":"alex@roi.com",
+            "Skype":"alexander",
+            "Grade":"P1"
+         },
+         {
+            "Id":3859,
+            "Name":"Eliseeva Evgeniya",
+            "Email":"evgeniya@roi.com",
+            "Skype":"zhenya",
+            "Grade":"P1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A24",
+      "Users":[
+         {
+            "Id":203,
+            "Name":"Sokolov Andrei",
+            "Email":"AS@roi.com",
+            "Skype":"AS123",
+            "Grade":"P3"
+         },
+         {
+            "Id":762,
+            "Name":"Korovin Ilya",
+            "Email":"ilya@roi.com",
+            "Skype":"ilya",
+            "Grade":"A1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A11",
+      "Users":[
+         {
+            "Id":1024,
+            "Name":"Morozov Michael",
+            "Email":"michael@roi.com",
+            "Skype":"michael",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B06",
+      "Users":[
+         {
+            "Id":1147,
+            "Name":"Smirnov Mikhail",
+            "Email":"mikhail@roi.com",
+            "Skype":"misha",
+            "Grade":"T2"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5B04",
+      "Users":[
+         {
+            "Id":1199,
+            "Name":"Kukushkin Alexander",
+            "Email":"alexander@roi.com",
+            "Skype":"alex",
+            "Grade":"P2"
+         },
+         {
+            "Id":580,
+            "Name":"Potapova Olga",
+            "Email":"olga@roi.com",
+            "Skype":"olya",
+            "Grade":"P2"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A12",
+      "Users":[
+         {
+            "Id":1240,
+            "Name":"Krotov Pavel",
+            "Email":"pavel@roi.com",
+            "Skype":"pasha",
+            "Grade":"P2"
+         }
+      ]
+   },
+   {
+      "Name":"St. Petersburg, Russia",
+      "Users":[
+         {
+            "Id":1277,
+            "Name":"Mironova Anna",
+            "Email":"AM@roi.com",
+            "Skype":"Anna111",
+            "Grade":"P2"
+         },
+         {
+            "Id":4386,
+            "Name":"Minova Maria",
+            "Email":"maria@roi.com",
+            "Skype":"mary",
+            "Grade":"P2"
+         },
+         {
+            "Id":4493,
+            "Name":"Konstantinov Konstantin",
+            "Email":"konstantin@roi.com",
+            "Skype":"kostya",
+            "Grade":"HR2"
+         },
+         {
+            "Id":4509,
+            "Name":"Yaremin Yury",
+            "Email":"yury@roi.com",
+            "Skype":"yura111",
+            "Grade":"P2"
+         },
+         {
+            "Id":1395,
+            "Name":"Tarasova Ekaterina",
+            "Email":"ekaterina@roi.com",
+            "Skype":"katya111",
+            "Grade":"P3"
+         },
+         {
+            "Id":4804,
+            "Name":"Zhuravlev Dmitry",
+            "Email":"dmitry@roi.com",
+            "Skype":"abcde",
+            "Grade":"P2"
+         },
+         {
+            "Id":4908,
+            "Name":"Romanov Roman",
+            "Email":"roman@roi.com",
+            "Skype":"romrom",
+            "Grade":"A2"
+         },
+         {
+            "Id":4935,
+            "Name":"Kapustin Dmitry",
+            "Email":"dmitryk@roi.com",
+            "Skype":"dimka",
+            "Grade":"P2"
+         },
+         {
+            "Id":5049,
+            "Name":"Ivanova Daria",
+            "Email":"daria@roi.com",
+            "Skype":"dasha",
+            "Grade":"P2"
+         },
+         {
+            "Id":5053,
+            "Name":"Petrov Pavel",
+            "Email":"palelpet@roi.com",
+            "Skype":"Petpav",
+            "Grade":"P2"
+         },
+         {
+            "Id":5058,
+            "Name":"Viktorov Roman",
+            "Email":"roman@roi.com",
+            "Skype":"Romvik",
+            "Grade":"P3"
+         },
+         {
+            "Id":5070,
+            "Name":"Komkov Dmitry",
+            "Email":"dmitrykom@roi.com",
+            "Skype":"dimkom",
+            "Grade":"P2"
+         },
+         {
+            "Id":4885,
+            "Name":"Soloviev Evgeny",
+            "Email":"evgenysol@roi.com",
+            "Skype":"evgsol",
+            "Grade":"P2"
+         },
+         {
+            "Id":4889,
+            "Name":"Ulyanova Elizaveta",
+            "Email":"elizaveta@roi.com",
+            "Skype":"liza",
+            "Grade":"T2"
+         },
+         {
+            "Id":4992,
+            "Name":"Kanavin Oleg",
+            "Email":"olegka@roi.com",
+            "Skype":"olegka",
+            "Grade":"T2"
+         },
+         {
+            "Id":4999,
+            "Name":"Tambova Natalia",
+            "Email":"nataliatam@roi.com",
+            "Skype":"natasha",
+            "Grade":"T2"
+         },
+         {
+            "Id":5016,
+            "Name":"Petrova Svetlana",
+            "Email":"svetlanapet@roi.com",
+            "Skype":"svetapet",
+            "Grade":"T2"
+         },
+         {
+            "Id":5017,
+            "Name":"Kuznetsov Sergey",
+            "Email":"sergey345@roi.com",
+            "Skype":"serezha",
+            "Grade":"T2"
+         },
+         {
+            "Id":5018,
+            "Name":"Bukin Alexander",
+            "Email":"alexbuk@roi.com",
+            "Skype":"alexbuk",
+            "Grade":"T2"
+         },
+         {
+            "Id":5021,
+            "Name":"Markova Natalia",
+            "Email":"nataliamar@roi.com",
+            "Skype":"natmar",
+            "Grade":"T2"
+         },
+         {
+            "Id":5185,
+            "Name":"Ivanov Egor",
+            "Email":"egor@roi.com",
+            "Skype":"egor",
+            "Grade":"P2"
+         },
+         {
+            "Id":5189,
+            "Name":"Romanov Konstantin",
+            "Email":"konrom@roi.com",
+            "Skype":"konrom",
+            "Grade":"P2"
+         },
+         {
+            "Id":5193,
+            "Name":"Smirnov Denis",
+            "Email":"denissm@roi.com",
+            "Skype":"denissm",
+            "Grade":"P2"
+         },
+         {
+            "Id":4830,
+            "Name":"Molodov Oleg",
+            "Email":"olegmol@roi.com",
+            "Skype":"olegmol",
+            "Grade":"P2"
+         },
+         {
+            "Id":4838,
+            "Name":"Prokhorov Vadim",
+            "Email":"vadim@roi.com",
+            "Skype":"vadimpr",
+            "Grade":"P2"
+         },
+         {
+            "Id":4864,
+            "Name":"Silaeva Tatyana",
+            "Email":"tatyanasila@roi.com",
+            "Skype":"tanyasila",
+            "Grade":"P2"
+         },
+         {
+            "Id":4984,
+            "Name":"Zverev Andrey",
+            "Email":"andreyzver@roi.com",
+            "Skype":"andreyzver",
+            "Grade":"P2"
+         },
+         {
+            "Id":5078,
+            "Name":"Volkova Anastasia",
+            "Email":"anastasiavol@roi.com",
+            "Skype":"nastyavol",
+            "Grade":"P2"
+         },
+         {
+            "Id":5095,
+            "Name":"Borisov Sergey",
+            "Email":"serbor@roi.com",
+            "Skype":"serbor",
+            "Grade":"P2"
+         },
+         {
+            "Id":5100,
+            "Name":"Vlasov Evgeny",
+            "Email":"evglvas@roi.com",
+            "Skype":"evglvas",
+            "Grade":"P2"
+         },
+         {
+            "Id":5108,
+            "Name":"Razuev Oleg",
+            "Email":"olegraz@roi.com",
+            "Skype":"olegraz",
+            "Grade":"A2"
+         },
+         {
+            "Id":5125,
+            "Name":"Artemov Denis",
+            "Email":"denisart@roi.com",
+            "Skype":"denisart",
+            "Grade":"A2"
+         },
+         {
+            "Id":5143,
+            "Name":"Barinov Alexander",
+            "Email":"alexbarin@roi.com",
+            "Skype":"alexbarin",
+            "Grade":"A2"
+         },
+         {
+            "Id":5152,
+            "Name":"Gavrilov Dmitry",
+            "Email":"dmitrygavr@roi.com",
+            "Skype":"dmitrygavr",
+            "Grade":"A1"
+         },
+         {
+            "Id":5161,
+            "Name":"Petrova Alexandra",
+            "Email":"alexa@roi.com",
+            "Skype":"alexa",
+            "Grade":"A3"
+         },
+         {
+            "Id":5162,
+            "Name":"Korkin Valery",
+            "Email":"valery@roi.com",
+            "Skype":"valery",
+            "Grade":"P3"
+         },
+         {
+            "Id":5165,
+            "Name":"Antonov Anton",
+            "Email":"antonant@roi.com",
+            "Skype":"antonant",
+            "Grade":"P3"
+         },
+         {
+            "Id":5166,
+            "Name":"Semenov Vladislav",
+            "Email":"vladislav@roi.com",
+            "Skype":"vlad123",
+            "Grade":"P3"
+         },
+         {
+            "Id":5173,
+            "Name":"Serikova Maria",
+            "Email":"mashaser@roi.com",
+            "Skype":"mashaser",
+            "Grade":"P3"
+         },
+         {
+            "Id":5099,
+            "Name":"Golikova Elena",
+            "Email":"elenagol@roi.com",
+            "Skype":"elenagol",
+            "Grade":"P3"
+         },
+         {
+            "Id":5168,
+            "Name":"Kotikova Evgenya",
+            "Email":"Evgenya@roi.com",
+            "Skype":"Evgenya",
+            "Grade":"P3"
+         },
+         {
+            "Id":5142,
+            "Name":"Ivanova Irina",
+            "Email":"iirina@roi.com",
+            "Skype":"iirina",
+            "Grade":"P3"
+         },
+         {
+            "Id":4819,
+            "Name":"Zakharova Ksenia",
+            "Email":"kseniaz@roi.com",
+            "Skype":"xenia",
+            "Grade":"P3"
+         },
+         {
+            "Id":5077,
+            "Name":"Larina Tatyana",
+            "Email":"tatyanalarina",
+            "Grade":"P3"
+         },
+         {
+            "Id":1013,
+            "Name":"Levina Zhanna",
+            "Email":"zhanna@roi.com",
+            "Skype":"zhanna",
+            "Grade":"P3"
+         },
+         {
+            "Id":3386,
+            "Name":"Semykina Yulia",
+            "Email":"yulyasem@roi.com",
+            "Skype":"yulyasem",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A69",
+      "Users":[
+         {
+            "Id":1284,
+            "Name":"Gorbacheva Anna",
+            "Email":"annagor@roi.com",
+            "Skype":"annagor",
+            "Grade":"P3"
+         },
+         {
+            "Id":1685,
+            "Name":"Smirnov Artem",
+            "Email":"artemsm@roi.com",
+            "Skype":"artemsm",
+            "Grade":"P1"
+         },
+         {
+            "Id":3261,
+            "Name":"Ionov Ruslan",
+            "Email":"ruslan@roi.com",
+            "Skype":"ruslan",
+            "Grade":"P1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A50",
+      "Users":[
+         {
+            "Id":3543,
+            "Name":"Krotova Elena",
+            "Email":"elenakrot@roi.com",
+            "Skype":"elenakrot",
+            "Grade":"P1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A73",
+      "Users":[
+         {
+            "Id":3571,
+            "Name":"Brazina Anastasia",
+            "Email":"anstasiabr@roi.com",
+            "Skype":"nastyabr",
+            "Grade":"P1"
+         },
+         {
+            "Id":4100,
+            "Name":"Kalinin Leonid",
+            "Email":"leonidka@roi.com",
+            "Skype":"leonidka",
+            "Grade":"P1"
+         },
+         {
+            "Id":1476,
+            "Name":"Efremova Ekaterina",
+            "Email":"eekaterina@roi.com",
+            "Skype":"eekaterina",
+            "Grade":"P1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A04",
+      "Users":[
+         {
+            "Id":3580,
+            "Name":"Konorov Evgeny",
+            "Email":"egvenykon@roi.com",
+            "Skype":"evgenykon",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Kazan, Russia",
+      "Users":[
+         {
+            "Id":4084,
+            "Name":"Nosenko Nikolay",
+            "Email":"nikolaynos@roi.com",
+            "Skype":"nosnik",
+            "Grade":"T1"
+         },
+         {
+            "Id":4233,
+            "Name":"Petrov Nikita",
+            "Email":"nikita@roi.com",
+            "Skype":"nikitap",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A28",
+      "Users":[
+         {
+            "Id":491,
+            "Name":"Semenova Natalia",
+            "Email":"nataliasem@roi.com",
+            "Skype":"nataliasem",
+            "Grade":"T1"
+         },
+         {
+            "Id":4023,
+            "Name":"Smolin Yuriy",
+            "Email":"yurysm@roi.com",
+            "Skype":"yurysm",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B34",
+      "Users":[
+         {
+            "Id":561,
+            "Name":"Korkin Daniil",
+            "Email":"daniilko@roi.com",
+            "Skype":"daniilko",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A32",
+      "Users":[
+         {
+            "Id":599,
+            "Name":"Volin Sergey",
+            "Email":"sergeyvol@roi.com",
+            "Skype":"sergeyvol",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B31",
+      "Users":[
+         {
+            "Id":607,
+            "Name":"Sokolov Maxim",
+            "Email":"maxims@roi.com",
+            "Skype":"sokol",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5B31",
+      "Users":[
+         {
+            "Id":728,
+            "Name":"Baranov Semen",
+            "Email":"semenbar@roi.com",
+            "Skype":"semenbar",
+            "Grade":"T3"
+         }
+      ]
+   },
+   {
+      "Name":"6A88",
+      "Users":[
+         {
+            "Id":872,
+            "Name":"Sidorov Pavel",
+            "Email":"pavelsid@roi.com",
+            "Skype":"pavelsid",
+            "Grade":"T3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A18",
+      "Users":[
+         {
+            "Id":1654,
+            "Name":"Zimin Mikhail",
+            "Email":"mikhailz@roi.com",
+            "Skype":"mikhailz",
+            "Grade":"T3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A08",
+      "Users":[
+         {
+            "Id":1680,
+            "Name":"Mashina Maria",
+            "Email":"mariama@roi.com",
+            "Skype":"mama",
+            "Grade":"T3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B02",
+      "Users":[
+         {
+            "Id":3057,
+            "Name":"Sorokin Pavel",
+            "Email":"pavelsor@roi.com",
+            "Skype":"pavelsor",
+            "Grade":"T3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B26",
+      "Users":[
+         {
+            "Id":3120,
+            "Name":"Kochkina Maria",
+            "Email":"mariakoch@roi.com",
+            "Skype":"mariakoch",
+            "Grade":"T3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A42",
+      "Users":[
+         {
+            "Id":3136,
+            "Name":"Pronina Angelina",
+            "Email":"angelina@roi.com",
+            "Skype":"angelina",
+            "Grade":"T3"
+         },
+         {
+            "Id":4321,
+            "Name":"Deryabina Ksenia",
+            "Email":"kseniader@roi.com",
+            "Skype":"antonviktorov",
+            "Grade":"T3"
+         },
+         {
+            "Id":4020,
+            "Name":"Koroleva Anna",
+            "Email":"annakorol@roi.com",
+            "Skype":"annakorol",
+            "Grade":"T3"
+         },
+         {
+            "Id":3897,
+            "Name":"Krupenina Sophia",
+            "Email":"sophie@roi.com",
+            "Skype":"sophie",
+            "Grade":"T3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A14",
+      "Users":[
+         {
+            "Id":3899,
+            "Name":"Korovin Denis",
+            "Email":"deniskor@roi.com",
+            "Skype":"deniskor",
+            "Grade":"A3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A38",
+      "Users":[
+         {
+            "Id":3933,
+            "Name":"Ivanova Natalia",
+            "Email":"natashaiv@roi.com",
+            "Skype":"natashaiv",
+            "Grade":"A3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A02",
+      "Users":[
+         {
+            "Id":3978,
+            "Name":"Lopatkina Svetlana",
+            "Email":"svetalo@roi.com",
+            "Skype":"svetalo",
+            "Grade":"A3"
+         }
+      ]
+   },
+   {
+      "Name":"6A73",
+      "Users":[
+         {
+            "Id":4498,
+            "Name":"Lunkov Stepan",
+            "Email":"stepanl@roi.com",
+            "Skype":"stepanl",
+            "Grade":"A3"
+         },
+         {
+            "Id":3685,
+            "Name":"Ogorodnikova Daria",
+            "Email":"dariaogo@roi.com",
+            "Skype":"dariaogo",
+            "Grade":"A3"
+         },
+         {
+            "Id":5141,
+            "Name":"Tedikov Maxim",
+            "Email":"maximted@roi.com",
+            "Skype":"maximted",
+            "Grade":"A3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B03",
+      "Users":[
+         {
+            "Id":4710,
+            "Name":"Zubarev Alexander",
+            "Email":"alexzub@roi.com",
+            "Skype":"alexzub",
+            "Grade":"P3"
+         },
+         {
+            "Id":304,
+            "Name":"Borisova Elena",
+            "Email":"elenabor@roi.com",
+            "Skype":"elenabor",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B43",
+      "Users":[
+         {
+            "Id":260,
+            "Name":"Ivankina Olga",
+            "Email":"olgaiva@roi.com",
+            "Skype":"olgaiva",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5B03",
+      "Users":[
+         {
+            "Id":334,
+            "Name":"Zakirov Dmitry",
+            "Email":"dmitryzak@roi.com",
+            "Skype":"dmitryzak",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B12",
+      "Users":[
+         {
+            "Id":383,
+            "Name":"Matveev Alexander",
+            "Email":"alexandermat@roi.com",
+            "Skype":"alexandermat",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A75",
+      "Users":[
+         {
+            "Id":409,
+            "Name":"Kostylev Arseny",
+            "Email":"arsenykos@roi.com",
+            "Skype":"arsenykos",
+            "Grade":"P3"
+         },
+         {
+            "Id":3544,
+            "Name":"Levchenko Maria",
+            "Email":"marialev@roi.com",
+            "Skype":"marialev",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A03",
+      "Users":[
+         {
+            "Id":410,
+            "Name":"Morozov Yuriy",
+            "Email":"yurymoroz@roi.com",
+            "Skype":"yurymoroz",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A72",
+      "Users":[
+         {
+            "Id":417,
+            "Name":"Alexeeva Natalia",
+            "Email":"nataliaalex@roi.com",
+            "Skype":"nataliaalex",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 5A16",
+      "Users":[
+         {
+            "Id":1457,
+            "Name":"Bolbin Vladimir",
+            "Email":"vladimirbolb@roi.com",
+            "Skype":"vladimirbolb",
+            "Grade":"P3"
+         },
+         {
+            "Id":1458,
+            "Name":"Gerasimova Anna",
+            "Email":"annager@roi.com",
+            "Skype":"annager",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B17",
+      "Users":[
+         {
+            "Id":3796,
+            "Name":"Maximenko Anna",
+            "Email":"annamax@roi.com",
+            "Skype":"annamax",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B10",
+      "Users":[
+         {
+            "Id":4264,
+            "Name":"Mishanina Tatyana",
+            "Email":"tatyanamish@roi.com",
+            "Skype":"tatyanamish",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B35",
+      "Users":[
+         {
+            "Id":4789,
+            "Name":"Strukov Sergei",
+            "Email":"sergeystr@roi.com",
+            "Skype":"sergeystr",
+            "Grade":"P3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6B14",
+      "Users":[
+         {
+            "Id":4810,
+            "Name":"Kalinina Irina",
+            "Email":"irinka@roi.com",
+            "Skype":"irinka",
+            "Grade":"P2"
+         }
+      ]
+   },
+   {
+      "Name":"5A10",
+      "Users":[
+         {
+            "Id":4913,
+            "Name":"Bakanova Tatyana",
+            "Email":"tatyanabak@roi.com",
+            "Skype":"tatyanabak",
+            "Grade":"P2"
+         }
+      ]
+   },
+   {
+      "Name":"6B06",
+      "Users":[
+         {
+            "Id":5183,
+            "Name":"Feskov Oleg",
+            "Email":"olegfes@roi.com",
+            "Skype":"olegfes",
+            "Grade":"P2"
+         }
+      ]
+   },
+   {
+      "Name":"6B09",
+      "Users":[
+         {
+            "Id":4983,
+            "Name":"Kosov Roman",
+            "Email":"romankos@roi.com",
+            "Skype":"romankos",
+            "Grade":"P2"
+         }
+      ]
+   },
+   {
+      "Name":"6A78",
+      "Users":[
+         {
+            "Id":5091,
+            "Name":"Klimenko Alexander",
+            "Email":"alexklim@roi.com",
+            "Skype":"alexklim",
+            "Grade":"P2"
+         },
+         {
+            "Id":5112,
+            "Name":"Zhukov Andrey",
+            "Email":"andreyzhuk@roi.com",
+            "Skype":"andreyzhuk",
+            "Grade":"P2"
+         }
+      ]
+   },
+   {
+      "Name":"6B05",
+      "Users":[
+         {
+            "Id":5092,
+            "Name":"Zobov Konstantin",
+            "Email":"kostyazob@roi.com",
+            "Skype":"kostyazob",
+            "Grade":"P2"
+         }
+      ]
+   },
+   {
+      "Name":"St. Petersburg, 6B09",
+      "Users":[
+         {
+            "Id":5116,
+            "Name":"Barkov Arseny",
+            "Email":"arsenybar@roi.com",
+            "Skype":"arsenybar",
+            "Grade":"P1"
+         }
+      ]
+   },
+   {
+      "Name":"6A81",
+      "Users":[
+         {
+            "Id":5180,
+            "Name":"Gorbachev Sergey",
+            "Email":"sergeygorb@roi.com",
+            "Skype":"sergeygorb",
+            "Grade":"P1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A51",
+      "Users":[
+         {
+            "Id":4151,
+            "Name":"Izyumova Ekaterina",
+            "Email":"ekaterinaizyum@roi.com",
+            "Skype":"ekaterinaizyum",
+            "Grade":"P1"
+         },
+         {
+            "Id":613,
+            "Name":"Manokhina Margarita",
+            "Email":"margoman@roi.com",
+            "Skype":"margoman",
+            "Grade":"T1"
+         },
+         {
+            "Id":3717,
+            "Name":"Voronkova Yulia",
+            "Email":"yuliavoron@roi.com",
+            "Skype":"yuliavoron",
+            "Grade":"T1"
+         },
+         {
+            "Id":3735,
+            "Name":"Chernova Ekaterina",
+            "Email":"ekaterinacher@roi.com",
+            "Skype":"ekaterinacher",
+            "Grade":"T1"
+         },
+         {
+            "Id":3254,
+            "Name":"Belova Elena",
+            "Email":"elenabel@roi.com",
+            "Skype":"elenabel",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A40",
+      "Users":[
+         {
+            "Id":1420,
+            "Name":"Kozlova Ekaterina",
+            "Email":"ekaterinakoz@roi.com",
+            "Skype":"ekaterinakoz",
+            "Grade":"T1"
+         },
+         {
+            "Id":1642,
+            "Name":"Smolina Oksana",
+            "Email":"oxanasm@roi.com",
+            "Skype":"oxanasm",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Nizhniy Novgorod, Russia",
+      "Users":[
+         {
+            "Id":5004,
+            "Name":"Romanova Irina",
+            "Email":"irinarom@roi.com",
+            "Skype":"irinarom",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A89",
+      "Users":[
+         {
+            "Id":1592,
+            "Name":"Chekalkina Kristina",
+            "Email":"kristinachek@roi.com",
+            "Skype":"kristinachek",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A64",
+      "Users":[
+         {
+            "Id":3625,
+            "Name":"Bykov Anatoly",
+            "Email":"anatolybyk@roi.com",
+            "Skype":"anatolybyk",
+            "Grade":"T1"
+         }
+      ]
+   },
+   {
+      "Name":"6A44",
+      "Users":[
+         {
+            "Id":5045,
+            "Name":"Belova Svetlana",
+            "Email":"svetlanabel@roi.com",
+            "Skype":"svetlanabel",
+            "Grade":"M3"
+         }
+      ]
+   },
+   {
+      "Name":"Room 6A48",
+      "Users":[
+         {
+            "Id":680,
+            "Name":"Generalov Dmitry",
+            "Email":"dmitrygen@roi.com",
+            "Skype":"dmitrygen",
+            "Grade":"M3"
+         }
+      ]
+   }
+]
+}
+ 

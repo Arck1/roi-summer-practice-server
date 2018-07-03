@@ -1,0 +1,21 @@
+{
+  "name": "roi-summer-practice-server",
+  "version": "1.0.0",
+  "description": "server side with rest api for roi summer practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Arck1",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "json": "^9.0.6",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
